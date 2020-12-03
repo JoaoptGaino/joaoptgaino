@@ -10,12 +10,7 @@ Olá! Me chamo João Pedro Theodoro Gaino, sou desenvolvedor fullstack.
 Atualmente estudo ReactJS e NodeJS escrevendo com Typescript. Também já me aventurei em Java e PHP
 
 <br>
-Além disso, tenho uma experiência bem legal com Mobile utilizando React Native, tendo construido alguns aplicativos:
-
-### 💪[Easy-Gym](https://github.com/JoaoptGaino/easy-gym)
-### 📝[Todo-list](https://github.com/JoaoptGaino/todo-list-mobile/)
-
-
+Além disso, tenho uma experiência bem legal com Mobile utilizando React Native, tendo construido alguns aplicativos que estão todos aqui no meu github.
 </p>
 <hr>
 
