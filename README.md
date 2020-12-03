@@ -1,12 +1,9 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=joaoptgaino&show_icons=true&title_color=fff&text_color=fffe&icon_color=fff&bg_color=000&cache_seconds=2300">
 
-### Faça um breve apresentação sobre você
-
+### Olá! Me chamo João Pedro Theodoro Gaino, sou desenvolvedor fullstack. 
 <img src="https://img.shields.io/static/v1?label=Overview&message=JoaoptGaino&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
-Olá! Me chamo João Pedro Theodoro Gaino, sou desenvolvedor fullstack. 
-<br>
 Atualmente estudo ReactJS e NodeJS escrevendo com Typescript. Também já me aventurei em Java e PHP
 
 <br>
