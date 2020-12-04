@@ -1,17 +1,18 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=joaoptgaino&show_icons=true&title_color=fff&text_color=fffe&icon_color=fff&bg_color=000&cache_seconds=2300">
 
-### Olá! Me chamo João Pedro Theodoro Gaino, sou desenvolvedor fullstack. 
+### Hey! My name is João Pedro Theodoro Gaino, but you can call me João! Oh, and I'm a FullStack Developer. 
 <img src="https://img.shields.io/static/v1?label=Overview&message=JoaoptGaino&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
-Atualmente estudo ReactJS e NodeJS escrevendo com Typescript. Também já me aventurei em Java e PHP
-
+  Currently a React and NodeJS student, going for a fluency in Typescript. I'm also an adventurer in PHP and Java.
 <br>
-Além disso, tenho uma experiência bem legal com Mobile utilizando React Native, tendo construido alguns aplicativos que estão todos aqui no meu github.
+  Besides that, I've got a cool experience with Mobile using React Native.
+  <br>
+  A Brazilian with a dream of living in Canada
 </p>
 <hr>
 
-### Entre em contato comigo em algumas dessas redes sociais:
+### Contact me:
 
 <p align="left">
   <a href="https://joaoptgaino.com/" alt="Meu site" target="_blank">
