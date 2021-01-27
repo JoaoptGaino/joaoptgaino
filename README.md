@@ -8,7 +8,7 @@
 <br>
   Besides that, I've got a cool experience with Mobile using React Native.
   <br>
-  A Brazilian with a dream of living in Canada
+  Working as a Junior web developer at [EurekaLabs](https://eurekalabs.com.br/)
 </p>
 <hr>
 
