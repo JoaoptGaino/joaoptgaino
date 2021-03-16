@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=JoaoptGaino&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
-  Currently a React and NodeJS student, going for a fluency in Typescript. I'm also an adventurer in PHP and Java.
+  Currently a React and NodeJS student, going for a fluency in Typescript. I'm also an adventurer in PHP and a Java lover.
 <br>
   Besides that, I've got a cool experience with Mobile using React Native.
   <br>
