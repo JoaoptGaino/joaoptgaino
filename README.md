@@ -11,7 +11,9 @@
   Currently working as a Junior web developer at <a href="https://eurekalabs.com.br/" alt="EurekaLabs" target="_blank">EurekaLabs</a>
 </p>
 <hr>
-
+### My top programming languages:
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoptgaino&theme=blue-green)
+<hr>
 ### Contact me:
 
 <p align="left">
