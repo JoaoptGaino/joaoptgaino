@@ -12,7 +12,7 @@
 </p>
 <hr>
 ### My top programming languages:
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoptgaino&theme=blue-green)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoptgaino&theme=blue-green">
 <hr>
 ### Contact me:
 
