@@ -11,10 +11,10 @@
   Currently working as a Junior web developer at <a href="https://eurekalabs.com.br/" alt="EurekaLabs" target="_blank">EurekaLabs</a>
 </p>
 <hr>
-### My top programming languages:
+## My top programming languages:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoptgaino&theme=blue-green">
 <hr>
-### Contact me:
+## Contact me:
 
 <p align="left">
   <a href="https://joaoptgaino.com/" alt="Meu site" target="_blank">
