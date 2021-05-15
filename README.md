@@ -8,7 +8,7 @@
 <br>
   Besides that, I've got a cool experience with Mobile using React Native.
   <br>
-  Currently working as a Junior web developer at <a href="https://eurekalabs.com.br/" alt="EurekaLabs" target="_blank">EurekaLabs</a>
+  Currently working as a Web Developer at <a href="https://eurekalabs.com.br/" alt="EurekaLabs" target="_blank">EurekaLabs</a>
 </p>
 <hr>
 ## My top programming languages:
