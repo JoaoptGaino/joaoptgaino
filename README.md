@@ -4,11 +4,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=JoaoptGaino&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
-  Currently a React and NodeJS student, going for a fluency in Typescript. Completely in love with NestJS and SpringBoot.
-  I'm a Java enthusiast.
 <br>
-  Besides that, I've got a cool experience with Mobile using React Native.
-  <br>
   Currently working as a Web Developer at <a href="https://eurekalabs.com.br/" alt="EurekaLabs" target="_blank">EurekaLabs</a>
 </p>
 <hr>
