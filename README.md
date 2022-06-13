@@ -5,7 +5,7 @@
 
 <p>
 <br>
-  Currently working as a Web Developer at <a href="https://eurekalabs.com.br/" alt="EurekaLabs" target="_blank">EurekaLabs</a>
+  Currently working as a Full Stack Developer at <a href="https://inmetrics.com.br/" alt="Inmetrics" target="_blank">Inmetrics</a>
 </p>
 <hr>
 My top programming languages:
