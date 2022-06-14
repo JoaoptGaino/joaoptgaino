@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=joaoptgaino&show_icons=true&title_color=fff&text_color=fffe&icon_color=fff&bg_color=000&cache_seconds=2300">
 
-### Hey! My name is João Pedro Theodoro Gaino, but you can call me João! Oh, and I'm a FullStack Developer. 
+### You found me! Here is where I post all my (un)finished projects
 <img src="https://img.shields.io/static/v1?label=Overview&message=JoaoptGaino&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
