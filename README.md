@@ -5,7 +5,7 @@
 
 <p>
 <br>
-  Currently working as a Software Engineer at <a href="https://inmetrics.com.br/" alt="Inmetrics" target="_blank">Inmetrics</a>
+  Currently working as a Software Engineer at <a href="https://itau.com.br/" alt="Itaú" target="_blank">Itaú</a>
 </p>
 <hr>
 My top programming languages:
