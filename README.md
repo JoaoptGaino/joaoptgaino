@@ -1,25 +1,30 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=joaoptgaino&show_icons=true&title_color=fff&text_color=fffe&icon_color=fff&bg_color=000&cache_seconds=2300">
+# Hi, I'm João Pedro 👋
 
-### You found me! Here is where I post all my (un)finished projects
-<img src="https://img.shields.io/static/v1?label=Overview&message=JoaoptGaino&color=f8efd4&style=for-the-badge&logo=GitHub">
+**Software Engineer** focused on backend systems, microservices, and distributed architecture for banking and marketplace platforms.
 
-<p>
-<br>
-  Currently working as a Software Engineer at <a href="https://itau.com.br/" alt="Itaú" target="_blank">Itaú</a>
-</p>
-<hr>
-My top programming languages:
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoptgaino&theme=blue-green">
-<hr>
-Contact me:
+Currently building corporate credit systems at **Itaú Unibanco** with Java, Spring Boot, and serverless AWS. Previously scaled Java microservices to millions of monthly requests at the **Livelo** marketplace.
 
-<p align="left">
-  <a href="https://joaoptgaino.com/" alt="Meu site" target="_blank">
-  <img src="https://img.shields.io/badge/-Website-000?style=flat-square&labelColor=000&logo=circle&logoColor=white&link=" /></a>
+- 🔭 Working on high-volume backend systems in fintech
+- 🌱 Deepening AWS (Solutions Architect) and system design
+- 🤖 Reference point for AI-assisted engineering on my squad — agent workflows, spec-driven development
+- 🌍 English (C1) · Portuguese (native) · German (learning)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/joao-pedro-theodoro-gaino)
 
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-theodoro-gaino/" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
+---
 
-  <a href="https://www.instagram.com/joaoptgaino/" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/joaoptgaino/"/></a>
-</p>  
+### 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
